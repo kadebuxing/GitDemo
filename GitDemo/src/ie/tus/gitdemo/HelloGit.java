@@ -1,4 +1,4 @@
-package ie.tus.gitdemo;// Updated remotely on GitHub 
+package ie.tus.gitdemo;
 
 public class HelloGit {
 
